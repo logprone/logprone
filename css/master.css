@@ -45,9 +45,14 @@ body {
 }
 
 h1 {
+  font-size: 75px;
+
+}
+p {
   font-size: 50px;
 
 }
+
 h1,
 h2,
 h3,
